@@ -2,7 +2,8 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-<img src="https://raw.githubusercontent.com/DHTMLX/svelte-vault-demo/master/vault.png" width="550">
+![DHTMLX Vault with Svelte Demo](https://raw.githubusercontent.com/DHTMLX/svelte-vault-demo/master/vault.png)
+
 
 ## How to start
 
@@ -18,6 +19,7 @@ You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/devel
 ## Useful links
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-vault-with-svelte)**
+- [More demos about the DHTMLX Vault functionality](https://snippet.dhtmlx.com/26x2jra2?tag=vault)
 - [Technical support ](https://forum.dhtmlx.com/c/vault)
 - [Documentation](https://docs.dhtmlx.com/vault)
 
