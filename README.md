@@ -43,10 +43,7 @@ npm run start
 - Filtering & sorting
 - Auto and manual file upload
 - Cancellable file upload
-- Inline editing
-
-[![dhtmlx-vault-inline-editing](https://dhtmlx.com/blog/wp-content/uploads/2021/11/image1.gif)](https://snippet.dhtmlx.com/cnz8nio5?tag=vault&mode=wide)
-  
+- Inline editing 
 - Real-time progress bar indicator
 - Custom upload restrictions
 - Grid & list modes
